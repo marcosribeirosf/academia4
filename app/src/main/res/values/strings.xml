@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewApp</string>
+    <string name="tv_editar">Excluir</string>
+</resources>
